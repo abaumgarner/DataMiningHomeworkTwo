@@ -1,11 +1,13 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class HomeworkTwo {
 
-	public static void main(String[] args) throws FileNotFoundException {
+	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
 		Scanner finTest = openFile("Genes_relation.test");
 		Scanner finData = openFile("Genes_relation.data");
 		// printFile(fin);
@@ -18,7 +20,20 @@ public class HomeworkTwo {
 		araTest = fillArray(araTest, finTest);
 		finTest.close();
 
-		printAra(araData);
+		printAra(araTest);
+
+		saveToFile(araTest);
+
+	}
+
+	private static void saveToFile(ArrayList<Relation> ara) throws FileNotFoundException, UnsupportedEncodingException {
+		PrintWriter writer = new PrintWriter("out.txt", "UTF-8");
+		Relation temp;
+		
+		for (int i = 0; i < ara.size(); i++) {
+			temp = ara.get(i);
+			writer.println(temp.getGeneNum() + "," + temp.getLocalization());
+		}
 
 	}
 
@@ -31,10 +46,11 @@ public class HomeworkTwo {
 	}
 
 	private static ArrayList<Relation> fillArray(ArrayList<Relation> ara, Scanner fin) {
-		Relation temp = new Relation();
+		
 
 		while (fin.hasNext()) {
 			String str = fin.nextLine();
+			Relation temp = new Relation();
 			String[] tokens = str.split(",(?=([^\"]*\"[^\"]*\")*[^\"]*$)");
 
 			temp.setGeneNum(tokens[0]);
