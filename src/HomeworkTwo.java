@@ -82,16 +82,20 @@ public class HomeworkTwo {
 					curWeight += 10000;
 				}
 				if (testRel.getComplex().equals(dataRel.getComplex()) && !testRel.getComplex().equals("?")) {
-					curWeight += 1001;
+					curWeight += 1000;
 					// System.out.println("Complex found at gene: " +
 					// dataRel.getGeneNum());
 				}
 				if (testRel.getGeneClass().equals(dataRel.getGeneClass()) && !testRel.getGeneClass().equals("?")) {
-					curWeight += 101;
+					curWeight += 100;
 					// System.out.println("Class found at gene: " +
 					// dataRel.getGeneNum());
 				}
-
+				if (testRel.getMotif().equals(dataRel.getMotif()) && !testRel.getMotif().equals("?")) {
+					curWeight += 10;
+					// System.out.println("Motif found at gene: " +
+					// dataRel.getGeneNum());
+				}
 				if (curWeight > maxWeight) {
 					index = y;
 					maxWeight = curWeight;

@@ -22,7 +22,7 @@ G234189,nucleus
 G236813,cytoplasm
 G234485,cytoplasm
 G235354,nucleus
-G235389,transport vesicles
+G235389,cytoplasm
 G235233,nucleus
 G235001,nucleus
 G234791,cytoplasm
@@ -39,15 +39,15 @@ G234704,cytoplasm
 G235094,mitochondria
 G234433,cytoplasm
 G235081,cytoplasm
-G239304,plasma membrane
+G239304,cytoplasm
 G238662,cytoplasm
 G234612,nucleus
 G235908,vacuole
 G235236,nucleus
 G237392,cytoplasm
-G237587,nucleus
+G237587,cytoplasm
 G234267,cytoplasm
-G235878,transport vesicles
+G235878,cytoplasm
 G239938,nucleus
 G234773,cytoskeleton
 G238132,cytoplasm
@@ -59,8 +59,8 @@ G234199,cytoplasm
 G234268,cytoplasm
 G234213,cytoplasm
 G235081,cytoplasm
-G237587,nucleus
-G234671,plasma membrane
+G237587,cytoplasm
+G234671,cytoplasm
 G234385,ER
 G234081,nucleus
 G236812,cytoplasm
@@ -93,7 +93,7 @@ G234704,cytoplasm
 G235339,nucleus
 G235305,nucleus
 G234739,cytoplasm
-G235635,cytoplasm
+G235635,nucleus
 G235098,nucleus
 G234414,nucleus
 G234339,mitochondria
@@ -110,18 +110,18 @@ G234267,cytoplasm
 G235354,nucleus
 G239273,cytoplasm
 G236838,ER
-G235337,cytoplasm
+G235337,nucleus
 G237196,cytoplasm
 G235507,cytoskeleton
 G236066,cytoplasm
 G235901,cytoskeleton
-G235121,transport vesicles
+G235121,cytoplasm
 G235770,cytoplasm
 G235354,nucleus
 G234798,nucleus
 G237100,cytoplasm
 G235354,nucleus
-G236279,cytoplasm
+G236279,ER
 G235605,cytoskeleton
 G234940,cytoplasm
 G235794,nucleus
@@ -135,9 +135,9 @@ G239825,cytoplasm
 G234394,cytoskeleton
 G235612,nucleus
 G235770,cytoplasm
-G235878,transport vesicles
-G235878,transport vesicles
-G235638,transport vesicles
+G235878,cytoplasm
+G235878,cytoplasm
+G235638,cytoplasm
 G234273,cytoplasm
 G234267,cytoplasm
 G234573,ER
@@ -155,7 +155,7 @@ G239825,cytoplasm
 G236523,nucleus
 G236523,nucleus
 G235440,nucleus
-G235878,transport vesicles
+G235878,cytoplasm
 G239856,cytoplasm
 G234958,nucleus
 G235325,nucleus
@@ -209,7 +209,7 @@ G234773,cytoskeleton
 G234798,nucleus
 G235112,cytoplasm
 G239517,plasma membrane
-G234791,mitochondria
+G234791,nucleus
 G235160,cytoplasm
 G235276,cytoplasm
 G234394,cytoskeleton
@@ -223,7 +223,7 @@ G235547,cytoskeleton
 G234314,cytoplasm
 G234728,mitochondria
 G234231,cytoplasm
-G235337,cytoplasm
+G235337,nucleus
 G235305,nucleus
 G235488,cytoskeleton
 G235576,ER
@@ -256,7 +256,7 @@ G234339,mitochondria
 G234385,ER
 G234739,cytoplasm
 G239343,cytoplasm
-G234671,plasma membrane
+G234671,cytoplasm
 G234394,cytoskeleton
 G238783,cytoplasm
 G234618,nucleus
@@ -279,7 +279,7 @@ G234515,nucleus
 G235233,nucleus
 G234806,cytoskeleton
 G234573,ER
-G235424,transport vesicles
+G235424,cytoplasm
 G234203,nucleus
 G234847,nucleus
 G235111,cytoplasm
@@ -292,9 +292,9 @@ G234419,nucleus
 G234521,cytoskeleton
 G236838,ER
 G235746,nucleus
-G237587,nucleus
-G235778,transport vesicles
-G234750,plasma membrane
+G237587,cytoplasm
+G235778,cytoplasm
+G234750,cytoplasm
 G234226,transport vesicles
 G234704,cytoplasm
 G235354,nucleus
@@ -302,11 +302,11 @@ G235882,cytoplasm
 G234813,mitochondria
 G234442,cytoskeleton
 G235118,cytoplasm
-G235389,transport vesicles
+G235389,cytoplasm
 G239572,cytoskeleton
 G234521,cytoskeleton
 G235794,nucleus
-G235121,transport vesicles
+G235121,cytoplasm
 G234834,cytoplasm
 G236380,cytoplasm
 G234247,cytoskeleton
@@ -314,7 +314,7 @@ G234179,nucleus
 G234405,plasma membrane
 G239574,cytoplasm
 G234086,mitochondria
-G237587,nucleus
+G237587,cytoplasm
 G235605,cytoskeleton
 G237059,cytoplasm
 G235166,nucleus
@@ -322,13 +322,13 @@ G235354,nucleus
 G235224,ER
 G235305,nucleus
 G234249,nucleus
-G235121,transport vesicles
+G235121,cytoplasm
 G234515,nucleus
 G235354,nucleus
 G234086,mitochondria
 G234086,mitochondria
 G235224,ER
-G235051,plasma membrane
+G235051,cytoplasm
 G235783,nucleus
 G235305,nucleus
 G235777,nucleus
@@ -364,7 +364,7 @@ G235904,nucleus
 G234419,nucleus
 G239517,plasma membrane
 G234179,nucleus
-G237587,nucleus
+G237587,cytoplasm
 G234433,cytoplasm
 G234365,cytoplasm
 G235767,mitochondria
@@ -398,11 +398,11 @@ G235454,nucleus
 G235908,vacuole
 G236831,nucleus
 G235082,nucleus
-G235804,transport vesicles
+G235804,cytoplasm
 G234433,cytoplasm
 G235097,nucleus
 G235831,ER
-G235389,transport vesicles
+G235389,cytoplasm
 G234945,nucleus
 G237337,cytoplasm
 G235860,nucleus
@@ -440,7 +440,7 @@ G235183,cytoskeleton
 G235505,nucleus
 G234704,cytoplasm
 G235081,cytoplasm
-G235878,transport vesicles
+G235878,cytoplasm
 G234922,nucleus
 G240072,cytoplasm
 G234758,ER
@@ -480,7 +480,7 @@ G235888,nucleus
 G234226,transport vesicles
 G235325,nucleus
 G234086,mitochondria
-G235878,transport vesicles
+G235878,cytoplasm
 G234905,cytoplasm
 G237529,cytoplasm
 G235685,cytoplasm
@@ -493,10 +493,10 @@ G235770,cytoplasm
 G234385,ER
 G234249,nucleus
 G237700,cytoplasm
-G237587,nucleus
+G237587,cytoplasm
 G234394,cytoskeleton
 G236099,cytoplasm
-G235878,transport vesicles
+G235878,cytoplasm
 G235220,cytoplasm
 G237429,cytoplasm
 G237116,cytoplasm
@@ -513,7 +513,7 @@ G235098,nucleus
 G237375,cytoplasm
 G235121,cytoskeleton
 G234365,cytoplasm
-G237587,nucleus
+G237587,cytoplasm
 G235761,cytoskeleton
 G235466,cytoplasm
 G235612,nucleus
@@ -525,7 +525,7 @@ G234615,cytoskeleton
 G234419,nucleus
 G234565,ER
 G234433,cytoplasm
-G235638,transport vesicles
+G235638,cytoplasm
 G234081,nucleus
 G234372,plasma membrane
 G235488,cytoskeleton
@@ -546,7 +546,7 @@ G235183,cytoskeleton
 G234226,transport vesicles
 G234515,nucleus
 G235150,ER
-G235778,transport vesicles
+G235778,cytoplasm
 G237728,cytoskeleton
 G236523,nucleus
 G236066,cytoplasm
@@ -576,7 +576,7 @@ G235875,nucleus
 G235795,nucleus
 G235770,cytoplasm
 G237986,cytoplasm
-G235878,transport vesicles
+G235878,cytoplasm
 G235353,cytoplasm
 G235888,nucleus
 G235761,cytoskeleton
@@ -587,7 +587,7 @@ G235352,nucleus
 G239593,cytoplasm
 G235893,nucleus
 G234385,ER
-G237587,nucleus
+G237587,cytoplasm
 G236831,nucleus
 G235454,mitochondria
 G234189,nucleus
@@ -596,15 +596,15 @@ G235098,nucleus
 G234534,mitochondria
 G235446,transport vesicles
 G235033,nucleus
-G235878,transport vesicles
+G235878,cytoplasm
 G234226,transport vesicles
-G235638,transport vesicles
+G235638,cytoplasm
 G237436,cytoplasm
 G234565,ER
-G235424,transport vesicles
+G235424,cytoplasm
 G234521,cytoskeleton
 G237392,cytoplasm
-G235804,transport vesicles
+G235804,cytoplasm
 G234249,nucleus
 G234423,cytoplasm
 G236523,nucleus
@@ -635,7 +635,7 @@ G235001,nucleus
 G235602,nucleus
 G235109,nucleus
 G234573,ER
-G236279,cytoplasm
+G236279,ER
 G235354,nucleus
 G234758,ER
 G234701,cytoplasm
@@ -774,28 +774,28 @@ G235888,nucleus
 G235848,nucleus
 G234741,cytoplasm
 G235562,nucleus
-G235878,transport vesicles
+G235878,cytoplasm
 G235339,nucleus
 G234389,nucleus
 G234739,cytoplasm
-G237587,nucleus
+G237587,cytoplasm
 G235547,cytoskeleton
 G235646,cytoskeleton
 G234372,plasma membrane
 G235705,nucleus
 G234847,nucleus
 G235893,nucleus
-G235878,transport vesicles
+G235878,cytoplasm
 G238400,cytoplasm
 G239588,cytoplasm
-G235291,transport vesicles
+G235291,cytoplasm
 G235186,nucleus
 G236771,cytoplasm
 G234683,plasma membrane
 G237429,cytoplasm
 G234698,plasma membrane
 G234739,cytoplasm
-G235638,transport vesicles
+G235638,cytoplasm
 G234490,nucleus
 G235081,cytoplasm
 G234679,cytoplasm
@@ -823,7 +823,7 @@ G234758,ER
 G236661,cytoskeleton
 G235325,nucleus
 G234256,cytoplasm
-G239971,nucleus
+G239971,plasma membrane
 G235931,cytoplasm
 G235908,vacuole
 G234147,nucleus
@@ -839,7 +839,7 @@ G239922,cytoplasm
 G235284,cytoplasm
 G235311,nucleus
 G234147,nucleus
-G235385,transport vesicles
+G235385,cytoplasm
 G238920,golgi
 G235352,nucleus
 G234704,cytoplasm
@@ -867,7 +867,7 @@ G235646,cytoskeleton
 G235602,nucleus
 G235339,nucleus
 G234094,nucleus
-G235389,transport vesicles
+G235389,cytoplasm
 G234249,nucleus
 G237059,cytoplasm
 G237728,cytoskeleton
@@ -886,11 +886,11 @@ G235900,vacuole
 G234433,cytoplasm
 G234062,mitochondria
 G239922,cytoplasm
-G235638,transport vesicles
+G235638,cytoplasm
 G235746,nucleus
 G234247,cytoskeleton
 G234419,nucleus
-G236279,cytoplasm
+G236279,ER
 G234433,cytoplasm
 G235236,nucleus
 G235917,nucleus
@@ -935,7 +935,7 @@ G235537,cytoplasm
 G234086,mitochondria
 G234485,cytoplasm
 G234365,cytoplasm
-G237587,nucleus
+G237587,cytoplasm
 G234688,nucleus
 G238447,cytoplasm
 G239911,cytoplasm
@@ -973,7 +973,7 @@ G237154,cytoplasm
 G235673,nucleus
 G234651,transport vesicles
 G234094,nucleus
-G234671,plasma membrane
+G234671,cytoplasm
 G235337,nucleus
 G240200,nucleus
 G235305,nucleus
@@ -983,10 +983,10 @@ G234612,nucleus
 G236021,mitochondria
 G234226,transport vesicles
 G234433,cytoplasm
-G236279,cytoplasm
+G236279,ER
 G235275,mitochondria
 G234215,cytoplasm
-G235878,transport vesicles
+G235878,cytoplasm
 G234739,cytoplasm
 G234683,plasma membrane
 G237429,cytoplasm
@@ -1001,7 +1001,7 @@ G234247,cytoskeleton
 G235511,ER
 G234365,cytoplasm
 G239588,cytoplasm
-G236279,cytoplasm
+G236279,ER
 G235354,nucleus
 G239913,cytoplasm
 G235595,cytoplasm
@@ -1064,10 +1064,10 @@ G238809,cytoplasm
 G235488,cytoskeleton
 G234226,transport vesicles
 G234365,cytoplasm
-G234750,plasma membrane
+G234750,cytoplasm
 G235882,nucleus
 G234249,nucleus
-G235878,transport vesicles
+G235878,cytoplasm
 G234701,cytoskeleton
 G234267,cytoplasm
 G235224,ER
@@ -1084,7 +1084,7 @@ G235097,nucleus
 G234633,nucleus
 G234728,cytoplasm
 G234798,nucleus
-G234671,plasma membrane
+G234671,cytoplasm
 G237321,cytoplasm
 G234414,nucleus
 G235232,cytoplasm
@@ -1098,7 +1098,7 @@ G234389,nucleus
 G235538,nucleus
 G234951,nucleus
 G234179,nucleus
-G239304,plasma membrane
+G239304,cytoplasm
 G236812,cytoplasm
 G234203,nucleus
 G235476,nucleus
@@ -1110,7 +1110,7 @@ G234573,ER
 G235818,nucleus
 G235055,cytoplasm
 G238375,cytoplasm
-G237126,nucleus
+G237126,plasma membrane
 G234215,cytoplasm
 G234785,cytoskeleton
 G235589,cytoplasm
@@ -1224,7 +1224,7 @@ G234097,nucleus
 G235055,nucleus
 G235104,cytoplasm
 G234633,nucleus
-G237587,nucleus
+G237587,cytoplasm
 G234433,cytoplasm
 G234394,cytoskeleton
 G235900,vacuole
@@ -1244,7 +1244,7 @@ G239273,cytoplasm
 G236523,nucleus
 G234992,plasma membrane
 G235354,nucleus
-G234750,plasma membrane
+G234750,cytoplasm
 G237656,cytoplasm
 G236919,cytoplasm
 G235387,cytoplasm
@@ -1256,7 +1256,7 @@ G235612,nucleus
 G236838,cytoplasm
 G234137,cytoskeleton
 G234120,plasma membrane
-G234791,mitochondria
+G234791,nucleus
 G234112,mitochondria
 G235904,nucleus
 G239572,cytoskeleton
@@ -1268,7 +1268,7 @@ G238800,cytoplasm
 G234704,cytoplasm
 G234423,cytoplasm
 G238615,cytoplasm
-G235291,transport vesicles
+G235291,cytoplasm
 G235311,nucleus
 G234758,ER
 G234433,cytoplasm
@@ -1277,7 +1277,7 @@ G235848,nucleus
 G234612,nucleus
 G234247,cytoskeleton
 G235818,nucleus
-G239971,nucleus
+G239971,plasma membrane
 G234247,cytoskeleton
 G240407,cytoplasm
 G237670,cytoplasm
@@ -1292,7 +1292,7 @@ G235001,nucleus
 G235319,nucleus
 G234834,cytoplasm
 G234314,cytoplasm
-G234671,plasma membrane
+G234671,cytoplasm
 G234922,nucleus
 G235794,nucleus
 G235392,nucleus
@@ -1305,4 +1305,25 @@ G235767,mitochondria
 G234531,plasma membrane
 G235001,nucleus
 G234419,nucleus
-G237153,cyt
+G237153,cytoplasm
+G234515,nucleus
+G235888,nucleus
+G234698,plasma membrane
+G235337,nucleus
+G235337,nucleus
+G235299,mitochondria
+G235804,cytoplasm
+G235440,nucleus
+G235931,cytoplasm
+G234741,cytoplasm
+G234086,mitochondria
+G234671,cytoplasm
+G235882,nucleus
+G234704,cytoplasm
+G234671,cytoplasm
+G234847,nucleus
+G235848,nucleus
+G234742,cytoplasm
+G235602,nucleus
+G234573,ER
+G2
