@@ -20,10 +20,11 @@ public class HomeworkTwo {
 		araTest = fillArray(araTest, finTest);
 		finTest.close();
 
-		// printAra(araData);
+		// printAra(araTest);
 
 		localizingAra(araData, araTest);
 
+		// printAra(araTest);
 		saveToFile(araTest);
 
 		accuracy();
@@ -61,6 +62,8 @@ public class HomeworkTwo {
 			}
 			total++;
 		}
+		keyText.close();
+		outText.close();
 		System.out.println("Number correct: " + correct);
 		System.out.println("Number total: " + total);
 		float acc = ((float) correct / total) * 100;
@@ -68,10 +71,11 @@ public class HomeworkTwo {
 	}
 
 	private static void localizingAra(ArrayList<Relation> araData, ArrayList<Relation> araTest) {
-		int x, y, maxWeight = 0;
+		int x, y;
 
 		int index = 0;
 		for (x = 0; x < araTest.size(); x++) {
+			int maxWeight = 0;
 			Relation testRel = araTest.get(x);
 
 			for (y = 0; y < araData.size(); y++) {
@@ -96,6 +100,7 @@ public class HomeworkTwo {
 					// System.out.println("Motif found at gene: " +
 					// dataRel.getGeneNum());
 				}
+
 				if (curWeight > maxWeight) {
 					index = y;
 					maxWeight = curWeight;
@@ -119,7 +124,7 @@ public class HomeworkTwo {
 			temp = ara.get(i);
 			writer.println(temp.getGeneNum() + "," + temp.getLocalization());
 		}
-
+		writer.close();
 	}
 
 	private static void printAra(ArrayList<Relation> ara) {
